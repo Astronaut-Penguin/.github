@@ -1,4 +1,5 @@
-</a><img width="100%"   vspace="25" align-items="center" src="./public/assets/AnimationInspect.gif"/>
+<p id="readme"><a href="https://tonoffers.netlify.app/"><img width="100%" src="./public/assets/logo-big.png"/></a></p>
+<p id="readme"><a href="https://tonoffers.netlify.app/"><img width="30%" src="./public/favicon.ico"/></a><img width="55%"   vspace="25" align-items="center" src="./public/assets/AnimationInspect.gif"/></p>
 
 
 
