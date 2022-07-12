@@ -1,4 +1,4 @@
-<p id="readme"></a><img width="55%"   vspace="25" align-items="center" src="./public/assets/AnimationInspect.gif"/></p>
+<p id="readme"></a><img width="100%"   vspace="25" align-items="center" src="./public/assets/AnimationInspect.gif"/></p>
 
 
 
