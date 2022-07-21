@@ -10,12 +10,14 @@ Founded by two developers who have been working together since 2018 in the web a
 Planification 💡
 
 Brainstorming, Ideation, Architecture from scratch.
+  
 Front-End 🎨
 
 Responsive Web Development.
 UX/UI Design.
 Web Motion.
 3D real time vfx.
+  
 Middleware 🔗
 
 Middleware Development (React + Typescript).
@@ -25,6 +27,7 @@ Third Party services implementation (i.e Cloudinary, AWS, Firebase).
 Correct Data handle and format.
 User Web2 authentication and interaction.
 User Web3 wallet authentication and interaction.
+  
 Back-End 📄 
 
 Smart Contract Development (ETH, BSC, Polygon, TON).
