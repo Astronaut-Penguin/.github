@@ -1,11 +1,11 @@
 <p id="readme"><a href="https://astronautpenguin.com/"><img width="25%" src="./public/assets/logo-big.png"/></p>
 
-## Astronaut Penguin
+### Astronaut Penguin
 Astronaut Penguin is an independent development team that bring solutions for upcoming web apps, web experiences and blockchain dapps when a highly reliable team and a well cost/quality balance it's needed.
 
 Founded by two developers who have been working together since 2018 in the web application and the Web3 industry from the very beggining.
 
-# 💻Our services:
+## 💻Our services:
 
 # Planification 💡
 
