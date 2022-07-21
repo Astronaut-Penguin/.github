@@ -50,4 +50,5 @@ and more...
 Web Development: Node.js, Html, Css, JS, Typescript, React, Redux, Vite, Rollup, Babel, Postcss, Sass, Three.js, Gsap, PixiJS, Jquery, Bootstrap, Web3.js, Ether.js, TonWeb, Prettier.
 Content Design:  Figma, Illustrator, Photoshop, AE, Xd, Cinema 4D, 3DsMax.
 Back-End: Solidity, FunC, Typescript, Mocha-Chai, Hardhat, Openzeppelin, Typechain, Solhint, Eslint.
+  
 Click our logo and check our website!
